@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">exercise_intent</string>
+    <string name="name">Nama</string>
+    <string name="email">email</string>
+    <string name="umur">Umur</string>
+    <string name="domisili">Domisili</string>
+    <string name="status">Status</string>
+    <string name="belum_menikah">Belum Menikah</string>
+    <string name="menikah">Menikah</string>
+    <string name="submit">Submit</string>
+</resources>
